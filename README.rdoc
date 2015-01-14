@@ -1,0 +1,3 @@
+== Excelify
+
+Excelify is a simple CSV manipulation tool.
